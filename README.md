@@ -65,14 +65,6 @@ jupyter notebook fraud_detection.ipynb
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
 
-## License
 
-[Specify your license here]
-
-## Contact
-
-[Your contact information]
-
----
 
 **Note**: This is an ongoing project under active development. The model will be continuously improved to enhance detection accuracy and reduce errors.
